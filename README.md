@@ -1,4 +1,4 @@
-# Apuntes personales de python
+# Aprende Python
 
 Esta es una guía estructurada y ordenada para enseñar a las personas a usar el lenguaje de programación de python. Contiene varios ejercicios que van desde lo básico hasta lo avanzado.
 
